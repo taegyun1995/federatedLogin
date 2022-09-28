@@ -1,0 +1,22 @@
+#wrap {
+    width : 600px;
+    height : 600px;
+    margin : auto;
+}
+
+.inputBox {
+    width : 300px;
+    height : 30px;
+}
+.inputBoxByWord {
+    width : 30px;
+}
+
+.loginBtnByGoogle {
+    width : 330px;
+    background-color :
+}
+.loginBtnByKakao {
+    width : 330px;
+    background-color : #FEE500;
+}
